@@ -1,0 +1,85 @@
+nav {
+    text-align: center;
+    padding: 10px;
+    background-color: #67d1fb;
+}
+
+nav a {
+    color: aliceblue;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+img.logo{
+    height: 200px;
+    width: 100%;
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+form {
+    padding: 80px;
+    text-align: center;
+    box-shadow: 1px 1px 5px #000000;
+    background-color: #67cfff;
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+form label {
+    display: block;
+    text-align: center;
+    margin: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+form input [type="text"]{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+form input [type="email"]{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    height: 100px;
+}
+
+form button {
+    padding: 10px 20px;
+    margin: 20px auto;
+    color: rgb(255, 204, 0);
+    background-color: #ffffff;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+p {
+    text-align: center;
+    color: white;
+    box-shadow: 1px 1px 5px #ffea00;
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #5fe2ff;
+}

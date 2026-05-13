@@ -1,0 +1,34 @@
+# Ignore common system files
+.DS_Store
+Thumbs.db
+
+# Node modules if you ever use local tooling
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output or temporary files
+dist/
+build/
+.tmp/
+
+# Ignore editor/project settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore OS-specific files
+*.bak
+*.swp
+*.tmp
+*.log
+
+# Ignore dependency lock files if you don't want them in repo
+# package-lock.json
+# yarn.lock
