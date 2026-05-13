@@ -28,6 +28,7 @@ jobs:
           with:
             path: .
 
-        - name: Deploy 
-            uses: actions/deploy-pages@v4
+        - name: Deploy
+          uses: actions/deploy-pages@v4
 
+          
